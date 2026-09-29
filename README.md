@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@
 | [0007-reverse-integer](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
 | ------- |

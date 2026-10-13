@@ -27,3 +27,4 @@
 	<li><code>nums</code> is an ascending array that is possibly rotated.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
+<p>This solution is a linear search with Tome Complexity: O(n)</p>

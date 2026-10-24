@@ -15,6 +15,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
@@ -75,4 +76,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

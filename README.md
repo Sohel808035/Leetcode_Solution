@@ -15,6 +15,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -29,6 +30,7 @@
 | [0069-sqrtx](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -83,5 +85,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

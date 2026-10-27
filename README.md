@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -87,6 +88,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -64,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0027-remove-element) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

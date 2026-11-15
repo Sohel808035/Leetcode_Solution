@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,4 +153,5 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

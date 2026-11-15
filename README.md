@@ -20,6 +20,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Sohel808035/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +126,28 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sohel808035/Leetcode_Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
